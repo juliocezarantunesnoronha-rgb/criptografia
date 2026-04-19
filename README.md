@@ -1,2 +1,2 @@
 # criptografia
-Um jogo multiplayer de Inscryption
+Um reestruturação do jogo Inscryption em Multiplayer para Navegador.
